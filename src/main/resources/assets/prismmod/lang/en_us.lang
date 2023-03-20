@@ -1,0 +1,35 @@
+itemGroup.prismmodtab_items=Prism's Mod Items
+itemGroup.prismmodtab=Prism's Mod Blocks
+
+item.strange_crystal.name=Strange Crystal
+item.normal_crystal.name=Crystal
+item.copper_ingot.name=Copper Ingot
+item.copper_nugget.name=Copper Nugget
+item.steel_ingot.name=Steel Ingot
+item.steel_nugget.name=Steel Nugget
+item.lead_ingot.name=Lead Ingot
+item.lead_nugget.name=Lead Nugget
+item.uranium_ingot.name=Uranium Ingot
+item.uranium_nugget.name=Uranium Nugget
+item.silver_ingot.name=Silver Ingot
+item.silver_nugget.name=Silver Nugget
+item.tin_ingot.name=Tin Ingot
+item.tin_nugget.name=Tin Nugget
+item.nickel_ingot.name=Nickel Ingot
+item.nickel_nugget.name=Nickel Nugget
+
+tile.copper_ore.name=Copper Ore
+tile.copper_block.name=Block of Copper
+tile.lead_ore.name=Lead Ore
+tile.lead_block.name=Block of Lead
+tile.steel_block.name=Block of Steel
+tile.uranium_ore.name=Uranium Ore
+tile.uranium_block.name=Block of Uranium
+tile.silver_ore.name=Silver Ore
+tile.silver_block.name=Block of Silver
+tile.tin_ore.name=Tin Ore
+tile.tin_block.name=Block of Tin
+tile.nickel_ore.name=Nickel Ore
+tile.nickel_block.name=Block of Nickel
+
+tile.decay_furnace.name=Decay Furnace
